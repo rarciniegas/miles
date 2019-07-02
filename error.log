@@ -1,0 +1,81 @@
+[05-Dec-2018 18:11:36 America/New_York] PHP Notice:  Undefined index: vehicle_name in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 69
+[05-Dec-2018 18:11:36 America/New_York] PHP Notice:  Undefined index: vehicle_name in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 73
+[05-Dec-2018 18:11:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 18:17:19 America/New_York] PHP Notice:  Undefined variable: storedPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 43
+[05-Dec-2018 18:17:19 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 44
+[05-Dec-2018 18:17:19 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 49
+[05-Dec-2018 18:17:19 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 58
+[05-Dec-2018 18:17:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 18:17:46 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 18:47:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 18:48:03 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 18:48:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 18:57:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 18:59:45 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 21:05:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 21:05:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 21:05:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 21:07:33 America/New_York] PHP Notice:  Undefined variable: storedPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 43
+[05-Dec-2018 21:07:34 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 44
+[05-Dec-2018 21:07:34 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 49
+[05-Dec-2018 21:07:34 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 58
+[05-Dec-2018 21:07:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 21:07:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 21:07:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 21:09:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 21:09:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /Applications/MAMP/htdocs/rarci/miles/welcome.php on line 76
+[05-Dec-2018 21:24:56 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /Applications/MAMP/htdocs/rarci/miles/register.php on line 10
+[05-Dec-2018 21:27:05 America/New_York] PHP Notice:  Undefined variable: storedPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 43
+[05-Dec-2018 21:27:05 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 44
+[05-Dec-2018 21:27:05 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 49
+[05-Dec-2018 21:27:05 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 58
+[05-Dec-2018 21:40:25 America/New_York] PHP Notice:  Undefined variable: storedPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 43
+[05-Dec-2018 21:40:26 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 44
+[05-Dec-2018 21:40:26 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 49
+[05-Dec-2018 21:40:26 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 58
+[05-Dec-2018 21:41:09 America/New_York] PHP Notice:  Undefined variable: storedPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 43
+[05-Dec-2018 21:41:09 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 44
+[05-Dec-2018 21:41:09 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 49
+[05-Dec-2018 21:41:09 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 58
+[05-Dec-2018 21:41:22 America/New_York] PHP Notice:  Undefined variable: storedPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 43
+[05-Dec-2018 21:41:22 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 44
+[05-Dec-2018 21:41:23 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 49
+[05-Dec-2018 21:41:23 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 58
+[05-Dec-2018 21:51:59 America/New_York] PHP Notice:  Undefined variable: storedPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 43
+[05-Dec-2018 21:51:59 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 44
+[05-Dec-2018 21:51:59 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 49
+[05-Dec-2018 21:51:59 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 58
+[05-Dec-2018 21:52:18 America/New_York] PHP Notice:  Undefined variable: storedPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 43
+[05-Dec-2018 21:52:18 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 44
+[05-Dec-2018 21:52:18 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 49
+[05-Dec-2018 21:52:18 America/New_York] PHP Notice:  Undefined variable: enteredPassword in /Applications/MAMP/htdocs/rarci/miles/login.php on line 58
+[27-Jun-2019 23:53:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'miles_plus_user'@'localhost' (using password: YES) in C:\wamp64\www\rarci\miles\lib\common.php on line 55
+[27-Jun-2019 23:53:42 America/New_York] PHP Stack trace:
+[27-Jun-2019 23:53:42 America/New_York] PHP   1. {main}() C:\wamp64\www\rarci\miles\login.php:0
+[27-Jun-2019 23:53:42 America/New_York] PHP   2. include() C:\wamp64\www\rarci\miles\login.php:2
+[27-Jun-2019 23:53:42 America/New_York] PHP   3. mysqli_connect() C:\wamp64\www\rarci\miles\lib\common.php:55
+[27-Jun-2019 23:54:24 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'miles_plus_user'@'localhost' (using password: YES) in C:\wamp64\www\rarci\miles\lib\common.php on line 55
+[27-Jun-2019 23:54:24 America/New_York] PHP Stack trace:
+[27-Jun-2019 23:54:24 America/New_York] PHP   1. {main}() C:\wamp64\www\rarci\miles\login.php:0
+[27-Jun-2019 23:54:24 America/New_York] PHP   2. include() C:\wamp64\www\rarci\miles\login.php:2
+[27-Jun-2019 23:54:24 America/New_York] PHP   3. mysqli_connect() C:\wamp64\www\rarci\miles\lib\common.php:55
+[28-Jun-2019 00:13:17 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'miles_plus_user'@'localhost' (using password: YES) in C:\wamp64\www\rarci\miles\lib\common.php on line 55
+[28-Jun-2019 00:13:17 America/New_York] PHP Stack trace:
+[28-Jun-2019 00:13:17 America/New_York] PHP   1. {main}() C:\wamp64\www\rarci\miles\login.php:0
+[28-Jun-2019 00:13:17 America/New_York] PHP   2. include() C:\wamp64\www\rarci\miles\login.php:2
+[28-Jun-2019 00:13:17 America/New_York] PHP   3. mysqli_connect() C:\wamp64\www\rarci\miles\lib\common.php:55
+[28-Jun-2019 00:13:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'miles_plus_user'@'localhost' (using password: YES) in C:\wamp64\www\rarci\miles\lib\common.php on line 55
+[28-Jun-2019 00:13:31 America/New_York] PHP Stack trace:
+[28-Jun-2019 00:13:31 America/New_York] PHP   1. {main}() C:\wamp64\www\rarci\miles\login.php:0
+[28-Jun-2019 00:13:31 America/New_York] PHP   2. include() C:\wamp64\www\rarci\miles\login.php:2
+[28-Jun-2019 00:13:31 America/New_York] PHP   3. mysqli_connect() C:\wamp64\www\rarci\miles\lib\common.php:55
+[28-Jun-2019 00:13:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'miles_plus_user'@'localhost' (using password: YES) in C:\wamp64\www\rarci\miles\lib\common.php on line 55
+[28-Jun-2019 00:13:38 America/New_York] PHP Stack trace:
+[28-Jun-2019 00:13:38 America/New_York] PHP   1. {main}() C:\wamp64\www\rarci\miles\login.php:0
+[28-Jun-2019 00:13:38 America/New_York] PHP   2. include() C:\wamp64\www\rarci\miles\login.php:2
+[28-Jun-2019 00:13:38 America/New_York] PHP   3. mysqli_connect() C:\wamp64\www\rarci\miles\lib\common.php:55
+[28-Jun-2019 00:14:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'miles_plus_user'@'localhost' (using password: YES) in C:\wamp64\www\rarci\miles\lib\common.php on line 55
+[28-Jun-2019 00:14:31 America/New_York] PHP Stack trace:
+[28-Jun-2019 00:14:31 America/New_York] PHP   1. {main}() C:\wamp64\www\rarci\miles\login.php:0
+[28-Jun-2019 00:14:31 America/New_York] PHP   2. include() C:\wamp64\www\rarci\miles\login.php:2
+[28-Jun-2019 00:14:31 America/New_York] PHP   3. mysqli_connect() C:\wamp64\www\rarci\miles\lib\common.php:55
